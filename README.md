@@ -8,7 +8,7 @@ This is a preview of the project QR code component solution.
 
 Links
 
-Solution URL:
+Solution URL: https://marifebastidas.github.io/blog_preview_card/
 
 My process
 
